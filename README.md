@@ -1,2 +1,3 @@
 # microservicecloud-config
 通用config配置项目
+该项目通常由运维或者其他负责更变配置的开发人员更新维护
