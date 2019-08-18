@@ -5,6 +5,8 @@ spring:
 ---
 spring:
   profiles: dev
+  application:
+    name: microservicecloud-config-provider-dept
 server:
   port: 8001
 
